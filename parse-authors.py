@@ -35,12 +35,12 @@ def main(args):
 
     for index, row in df[['Name', 'Affiliation']].iterrows():
         affiliation = row.Affiliation.split(
-            '\n') if row.Affiliation is not np.nan else ['NA']
+            '\n') if row.Affiliation != np.nan else ['NA']
         numbers = []
         for a in affiliation:
             if a in adict:
                 numbers.append(adict[a])
-            elif a is not 'NA':
+            elif a != 'NA':
                 adict[a] = counter
                 counter += 1
                 numbers.append(adict[a])
