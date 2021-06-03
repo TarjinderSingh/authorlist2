@@ -1,0 +1,47 @@
+checked	Last Name	First Name	Middle Initial	Email	Affiliation	Collection(s)	ORCID	Acknowledgements	Competing Interests	Check Box	C1	C2	label	Cases sequenced	Controls sequenced	n_authors	sample_per_author	published	label2
+	Singh	Tarjinder		tsingh@broadinstitute.org	"Analytic and Translational Genetics Unit, Department of Medicine, Massachusetts General Hospital, Boston, Massachusetts, USA
+Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA"	Lead Analyst					1	1.0							
+x	Poterba	Timothy		tpoterba@broadinstitute.org	"Analytic and Translational Genetics Unit, Department of Medicine, Massachusetts General Hospital, Boston, Massachusetts, USA
+Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA"	Data Analysis	0000-0003-1287-3434				1	2.0							
+X	Chapman	Sinéad	B	sinead@broadinstitute.org	Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA	Project Management	0000-0002-9454-2737				2								
+NEW	Churchhouse	Claire		cchurch@broadinstitute.org	"Analytic and Translational Genetics Unit, Department of Medicine, Massachusetts General Hospital, Boston, Massachusetts, USA
+Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA"	Data Analysis	0000-0003-3140-6452				2								
+X	Cusick	Caroline	M	ccusick@broadinstitute.org	Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA	Project Management					2								
+NEW	Dodge	Sheila		sdodge@broadinstitute.org	Genomics Platform, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA	Technology Development					2								
+X	Francioli	Laurent		lfran@broadinstitute.org	"Analytic and Translational Genetics Unit, Department of Medicine, Massachusetts General Hospital, Boston, Massachusetts, USA
+Program in Medical and Population Genetics, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA"	Data Analysis	0000-0002-3039-8895				2								
+NEW	Gabriel	Stacey	B	stacey@broadinstitute.org	Genomics Platform, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA	Technology Development					2								
+	Gage	Diane			Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA	Project Management					2								
+	Genovese	Giulio		giulio.genovese@gmail.com	Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA	Data Analysis					2								
+NEW	Heyne	Henrike	O	hheyne@broadinstitute.org	"Analytic and Translational Genetics Unit, Department of Medicine, Massachusetts General Hospital, Boston, Massachusetts, USA
+Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA
+Institute for Molecular Medicine Finland, University of Helsinki, Helsinki, Finland"""		0000-0001-9893-3850				2								
+x	Howrigan	Daniel	P	howrigan@broadinstitute.org	"Analytic and Translational Genetics Unit, Department of Medicine, Massachusetts General Hospital, Boston, Massachusetts, USA
+Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA"	Data Analysis	0000-0002-7721-4838				2								
+x	Huang	Hailiang		hhuang@broadinstitute.org	"Analytic and Translational Genetics Unit, Department of Medicine, Massachusetts General Hospital, Boston, Massachusetts, USA
+Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA"		0000-0003-1461-5762				2								
+X	Karczewski	Konrad	J	konradk@broadinstitute.org	"Analytic and Translational Genetics Unit, Department of Medicine, Massachusetts General Hospital, Boston, Massachusetts, USA
+Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA"	Data Analysis	0000-0003-2878-4671				2								
+	McCarroll	Steven	A	smccarro@broadinstitute.org	"Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA
+Department of Genetics, Harvard Medical School, Boston, Massachusetts, USA"	McLean collection					2		mclean	567.0	347.0	4.0	228.5	False	mclean
+x	Olivares	Ana Maria		aolivare@broadinstitute.org	Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA	Project Management					2								
+x	Palmer	Duncan	S	dpalmer@broadinstitute.org	"Analytic and Translational Genetics Unit, Department of Medicine, Massachusetts General Hospital, Boston, Massachusetts, USA
+Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA"	Data Analysis	0000-0002-0824-0047				2								
+NEW	Satterstrom	F. Kyle		satterst@broadinstitute.org	"Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA
+Analytic and Translational Genetics Unit, Massachusetts General Hospital, Boston, Massachusetts, USA"	Work with DBS exomes	0000-0001-6187-7680				2								
+	Scolnick	Edward		scolnick@broadinstitute.org	Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA	Study Design					2								
+x	Solomonson	Matthew		msolomon@broadinstitute.org	Program in Medical and Population Genetics, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA	Data Analysis, SCHEMA Browser	0000-0002-5344-9026				2								
+x	Stevens	Christine	R	curley@broadinstitute.org	"Program in Medical and Population Genetics, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA
+Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA"	Project Management					2								
+NEW	Tiao	Grace		gtiao@broadinstitute.org	Program in Medical and Population Genetics, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA	consulting on exome capture	0000-0001-9864-8275				2								
+x	Watts	Nicholas	A	nwatts@broadinstitute.org	Program in Medical and Population Genetics, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA	Data Analysis, SCHEMA Browser					2								
+x	Palotie	Aarno		aarno.palotie@fimm.fi	"Institute for Molecular Medicine Finland, University of Helsinki, Helsinki, Finland
+Program in Medical and Population Genetics, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA"	"UK10K consortium.
+FINRISK study."	0000-0002-2527-5874		Member of Astra Zeneca's Genomics Advisory Board		3		uk	8121.0	13669.0	22.0	990.4545454545456	False	uk
+x	Neale	Benjamin	M	bneale@broadinstitute.org	"Analytic and Translational Genetics Unit, Department of Medicine, Massachusetts General Hospital, Boston, Massachusetts, USA
+Program in Medical and Population Genetics, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA
+Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA"		0000-0003-1513-6077		B.M.N. is a member of the scientific advisory board at Deep Genomics and consultant for Camp4 Therapeutics, Takeda Pharmaceutical, and Biogen.		4	2.0							
+X	Daly	Mark	J	mjdaly@broadinstitute.org	"Analytic and Translational Genetics Unit, Department of Medicine, Massachusetts General Hospital, Boston, Massachusetts, USA
+Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA
+Program in Medical and Population Genetics, Broad Institute of Harvard and MIT, Cambridge, Massachusetts, USA
+Institute for Molecular Medicine Finland, University of Helsinki, Helsinki, Finland"		0000-0002-0949-8752		M.J.D. is a founder of Maze Therapeutics.		4	1.0							
