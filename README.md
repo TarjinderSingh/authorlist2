@@ -10,7 +10,7 @@ This was designed as a hack/one-of script for individual projects.
 If there are useful changes you'd like to suggest, please use pull requests to hellp improve the code.
 
 ## Setup
-
+****
 Clone from Github:
 
 ```bash

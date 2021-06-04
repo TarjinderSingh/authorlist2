@@ -34,8 +34,10 @@ def main(args):
     authorlist = []
 
     for index, row in df[['Name', 'Affiliation']].iterrows():
-        affiliation = row.Affiliation.split(
-            '\n') if row.Affiliation != np.nan else ['NA']
+        try:
+            affiliation = row.Affiliation.split('\n') if row.Affiliation != np.nan else ['NA']
+        except:
+            affiliation = ['NA']
         numbers = []
         for a in affiliation:
             if a in adict:
@@ -57,6 +59,10 @@ def main(args):
                             '{1}'.format(index, address))
 
     print((len(authorlist), len(address_list)))
+
+    
+    authorlist = [ a for a in authorlist if isinstance(a, str)]
+    print(authorlist)
 
     author_string = ', '.join(authorlist)
     address_string = ' '.join(address_list)
