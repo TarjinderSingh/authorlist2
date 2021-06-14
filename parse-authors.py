@@ -23,11 +23,17 @@ import numpy as np
 
 def main(args):
     df = pd.read_table(args['input'], encoding='utf-8')
+
+    df = df[df['First Name'].notnull()]
+    df['Affiliation'] = df['Affiliation'].apply(str)
+
     df['Middle Initial'] = df['Middle Initial'] + '.'
     df['Middle Initial'] = df['Middle Initial'].str.replace(' ', '')
     df['Middle Initial'] = df['Middle Initial'].replace(np.nan, '')
     df['Name'] = df['First Name'] + ' ' + \
         df['Middle Initial'] + ' ' + df['Last Name']
+    df['Name'] = df['Name'].replace('  ', '')
+    df['Name'] = df['Name'].str.strip()
 
     adict = {}
     counter = 1
@@ -35,11 +41,12 @@ def main(args):
 
     for index, row in df[['Name', 'Affiliation']].iterrows():
         try:
-            affiliation = row.Affiliation.split('\n') if row.Affiliation != np.nan else ['NA']
+            affiliation = row.Affiliation.split(args['delimiter']) if row.Affiliation != np.nan else ['NA']
         except:
             affiliation = ['NA']
         numbers = []
         for a in affiliation:
+            a = a.strip()
             if a in adict:
                 numbers.append(adict[a])
             elif a != 'NA':
@@ -86,6 +93,7 @@ output: word_document
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("-i", help="Input file", dest="input")
+    parser.add_argument("-d", help="Delimiter", dest="delimiter", default="\n", type=str)
     args = parser.parse_args()
     args = args.__dict__
     main(args)

@@ -1,1 +1,5 @@
 /test
+*.tsv
+*.docx
+*.Rmd
+*.html
